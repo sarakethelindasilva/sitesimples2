@@ -118,6 +118,7 @@ nav li a:hover{
 .overlay-button:hover {
     background-color: black;
     color: white;
+    text-decoration: none;
 }
 
 .n-overlay a{
